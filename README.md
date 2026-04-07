@@ -94,12 +94,6 @@ Future Full Stack Developer
 
 ---
 
-## 📜 License
-
-This project is created for **educational and internship purposes**.
-
----
-
 ## ⭐ Acknowledgment
 
 This project is part of **Future Interns Full Stack Development Program** to gain real-world web development experience and build a professional portfolio.
